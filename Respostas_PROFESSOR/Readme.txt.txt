@@ -1,0 +1,1 @@
+Esta pasta contém as respostas elaboradas pelo professor Alex às atividades propostas.
