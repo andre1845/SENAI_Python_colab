@@ -2,7 +2,7 @@
 import qrcode
 
 # Dados que você deseja codificar no QR code
-dados = "Andre Andrino - 061-982423430 andreandrino@hotmail.com"
+dados = "dados para o qr code"
 
 # Criação do objeto QRCode
 qr = qrcode.QRCode(
