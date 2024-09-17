@@ -1,0 +1,16 @@
+Faça a lista de exercícios a seguir em um único projeto. Crie um repositório remoto no GitHub e envie o link.
+
+1. Crie um programa que peça para que o usuário digite um número, em seguida o converta para float, exibindo em tela tanto o número em si quanto seu tipo de dado.
+2. Crie um programa que receba o peso (em gramas) de um bebê recém-nascido, e indique se o bebê está normal ou se precisa ficar internado, caso o bebê tenha menos que 2500g.
+3. Crie um programa onde o usuário informa um número inteiro, e o programa informa se o número e par ou ímpar.
+4. Crie um programa que o usuário informa um número inteiro positivo, e o programa exibe na tela uma contagem regressiva.
+5. Crie uma lista de 10 nomes (informados dentro do programa). Em seguida, o usuário informa um número inteiro equivalente a um índice, e o programa retorna o nome equivalente ao índice informado pelo usuário.
+6. Crie um programa que possua uma lista com números de 1 a 20, e informe quais deles são primos.
+7. Crie um programa onde o usuário possa digitar uma lista de nomes (quantos ele quiser) e no final exiba a lista de nomes em ordem alfabética na tela, mostrando também o número de nomes digitado pelo usuário.
+8. Crie um programa em que o usuário informe uma quantidade desejada de números decimais de, no mínimo 0 e no máximo 10, e o programa calcula a média desses números.
+9. Crie um programa onde o usuário cadastre uma quantidade desejada de eventos (nome do evento e classificação indicativa) e após o cadastro dos eventos, o usuário possa informar o nome e a idade, e se inscrever em um dos eventos. Caso o usuário não tenha idade mínima, o programa proíbe a inscrição e pede para o mesmo se inscrever em outro evento. Caso o usuário tenha a idade mínima, o programa inscreve o usuário exibindo a data da inscrição e encerra.
+10.  Crie um programa em que o usuário cadastre quantos cursos ele quiser (nome do curso, duração do curso em horas, Período do dia, quantidade de vagas) e exiba na tela.
+11. Crie um programa com funções para calcular a área de 4 figuras geométricas (quadrado, círculo, triângulo e trapézio).
+12. Crie um programa que traduza qualquer texto em qualquer idioma para o português.
+13. Crie um programa que automatize uma busca na Internet por videoaulas sobre Python no Youtube.
+14. Baixe um dataset qualquer da Internet e exiba seus dados em um notebook.
